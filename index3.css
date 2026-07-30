@@ -1,0 +1,256 @@
+.store {
+  background-color: #f5f5f7;
+  width: 1920px;
+  height: 44px;
+  gap: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Web {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+.background {
+  background-image: url("/zurag1.png");
+  width: 1920px;
+  height: 75px;
+}
+.background2 {
+  width: 1920px;
+  height: 60px;
+}
+
+.header {
+  width: 1920px;
+  height: 100px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.head {
+  width: 655px;
+  height: 52px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.head1 {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 52.01px;
+  letter-spacing: 0px;
+}
+
+.head2 {
+  font-size: 44px;
+  line-height: 52.01px;
+  letter-spacing: 0px;
+  font-weight: 700;
+}
+.text1 {
+  width: 226px;
+  height: 100px;
+  gap: 16px;
+  display: flex;
+  justify-content: center;
+}
+.text3 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+}
+.text4 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #06c;
+}
+.text5 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+}
+.text6 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #06c;
+}
+.timon11 {
+  width: 1896px;
+  height: 146px;
+  display: flex;
+  justify-content: center;
+}
+.timon10 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon {
+  background-image: url("/pods.png");
+  width: 120px;
+  height: 78px;
+  background-size: cover;
+}
+#timon1 {
+  background-image: url("/mac.png");
+  width: 120px;
+  height: 78px;
+}
+#timon3 {
+  background-image: url("/ipd.png");
+}
+#timon4 {
+  background-image: url("/iphone.png");
+}
+#timon5 {
+  background-image: url("/watch.png");
+}
+#timon6 {
+  background-image: url("/vision.png");
+}
+#timon7 {
+  background-image: url("/tag.png");
+}
+#timon8 {
+  background-image: url("/tv.png");
+}
+#timon9 {
+  background-image: url("/home.png");
+}
+#timon10 {
+  background-image: url("/accessories.png");
+}
+#timon11 {
+  background-image: url("card.png");
+}
+.timon12 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon13 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.timon14 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon15 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon16 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon17 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon18 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.timon19 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.timon20 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.timon21 {
+  width: 136px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.hero {
+  width: 1920px;
+  height: 558px;
+}
+.hero1 {
+  display: flex;
+  gap: 4px;
+}
+.iphone {
+  background-image: url("/apple.jpg");
+  width: 480px;
+  height: 500px;
+  background-size: cover;
+}
+#iphone1 {
+  background-image: url("/wtch.jpg");
+}
+#iphone2 {
+  background-image: url("/mini.jpg");
+}
